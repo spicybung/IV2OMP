@@ -12,9 +12,9 @@
 //                                                   author: spicybung
                                                     
     
-#include <open.mp> // Credits to open.mp team
-#include <streamer>	// Credits to Incognito
-#include <sscanf2>
+#include <open.mp> //   Credits to Amir & OMP Team
+#include <sscanf2> //  Credits to Y_Less 
+#include <streamer> //  Credits to Incognito
 #include <zcmd>	// iZCMD, Pawn.CMD, cock.cmd, whatever processor you use
 
 #define FILTERSCRIPT
